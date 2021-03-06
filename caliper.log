@@ -1,0 +1,12 @@
+2021.03.06-22:09:06.306[90m debug[39m [caliper] [local-client.js] 	Constructed a winston logger with the specified settings
+2021.03.06-22:09:06.380[33m warn [39m [caliper] [bind] 	Working directory for binding not specified. Using "/Users/hobbybear/go/src/6118"
+2021.03.06-22:09:06.381[32m info [39m [caliper] [bind] 	Binding working directory: /Users/hobbybear/go/src/6118
+2021.03.06-22:09:06.381[32m info [39m [caliper] [bind] 	Calling npm with: install grpc@1.14.2 fabric-ca-client@1.4.1 fabric-client@1.4.1 fabric-protos@2.0.0-snapshot.1 fabric-network@1.4.1
+2021.03.06-22:09:21.840[31m error[39m [caliper] [bind] 	Failed to execute "npm" with return code 1.
+2021.03.06-22:37:05.247[90m debug[39m [caliper] [blockchain] 	Constructed a winston logger with the specified settings
+2021.03.06-22:37:05.332[33m warn [39m [caliper] [bind] 	SUT SDK version is not specified, defaulting to "latest"
+2021.03.06-22:37:05.333[33m warn [39m [caliper] [bind] 	Working directory not specified. Using "/Users/hobbybear/go/src/6118"
+2021.03.06-22:37:05.333[32m info [39m [caliper] [bind] 	Binding for fabric@latest. This might take some time...
+2021.03.06-22:37:05.333[32m info [39m [caliper] [bind] 	Using working directory: /Users/hobbybear/go/src/6118
+2021.03.06-22:37:05.333[32m info [39m [caliper] [bind] 	Calling npm with: install fabric-client@1.4.8 fabric-protos@2.0.0-snapshot.1 fabric-network@1.4.8
+2021.03.06-22:37:23.295[31m error[39m [caliper] [bind] 	Failed to execute "npm" with return code 1.
